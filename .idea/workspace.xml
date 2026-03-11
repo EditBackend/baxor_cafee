@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3baac69-ded4-497e-9e2b-21cb5f490fae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bahor_cafee/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bahor_cafee/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bahor_cafee/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bahor_cafee/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="c3baac69-ded4-497e-9e2b-21cb5f490fae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
