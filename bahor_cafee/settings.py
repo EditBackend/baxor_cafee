@@ -26,7 +26,7 @@ DEBUG = True
 
 
 ALLOWED_HOSTS = [
-    "baxor_cafee.onrender.com",
+    "baxor_cafee-1.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
@@ -79,7 +79,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'bahor_cafee.urls'
 CORS_ALLOW_ALL_ORIGINS = True
 CSRF_TRUSTED_ORIGINS = [
-    "https://bahor_cafee.onrender.com",
+    "https://bahor_cafee-1.onrender.com",
 ]
 
 
