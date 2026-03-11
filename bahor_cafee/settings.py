@@ -26,14 +26,13 @@ DEBUG = True
 
 
 ALLOWED_HOSTS = [
-    "baxor_cafee-2.onrender.com",
+    "baxor_cafee-3.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
 
 
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -41,15 +40,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     'branch',
     'employee',
     'kitchen',
     'order',
     'table',
     'organization',
+
     'drf_yasg',
     'rest_framework',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
     'corsheaders',
 ]
 
@@ -79,7 +80,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'bahor_cafee.urls'
 CORS_ALLOW_ALL_ORIGINS = True
 CSRF_TRUSTED_ORIGINS = [
-    "https://bahor_cafee-2.onrender.com",
+    "https://bahor_cafee-3.onrender.com",
 ]
 
 
